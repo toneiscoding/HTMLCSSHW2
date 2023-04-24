@@ -1,0 +1,27 @@
+
+  nav {
+ 
+        display: flex;
+        justify-content: space-around;
+        background-color: hotpink;
+        margin-bottom: 30px;
+    
+  }
+
+  header h1 {
+    text-align: center;
+  }
+
+  .container-2 {
+    display: flex;
+    margin: 20px;
+    gap: 12px;
+  }
+
+  .sidebar {
+    background-color: hotpink;
+  }
+
+footer {
+
+}
